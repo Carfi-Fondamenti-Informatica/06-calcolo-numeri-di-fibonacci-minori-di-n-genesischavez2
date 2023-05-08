@@ -10,7 +10,9 @@ int main() {
          y=m+x;
          x=m;
          m=y;
-      } 
+      } else{
+       break;
+       }
    }  
          
    return 0;
