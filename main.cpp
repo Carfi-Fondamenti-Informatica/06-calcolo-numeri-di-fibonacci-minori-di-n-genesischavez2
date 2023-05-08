@@ -10,9 +10,7 @@ int main() {
          y=m+x;
          x=m;
          m=y;
-      } else {
-         cout << "";
-        }
+      } 
    }  
          
    return 0;
